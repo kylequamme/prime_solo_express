@@ -7,7 +7,7 @@ Install the Express library using `npm install express --save`.
 
 Set up static file serving using `express.static` using a folder called "public". Put a client side JavaScript file named `scripts.js` in your public folder and a style sheet named `styles.css`. Add a script tag referencing your script to your index.html file. Also add a link to your style sheet.
 
-Next, make a folder called "modules". Copy your three module files from the `prime_peer_nd_00` assignment into this folder and require them in your `server.js` file.
+Next, make a folder called "modules". Copy your three module files from the Module Madness assignment into this folder and require them in your `server.js` file.
 
 Set up a new route for GET requests to "/balance" that will use the required files to send a random account balance to the client. Use `$.ajax` to display this on the page. 
 
