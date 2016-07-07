@@ -1,0 +1,24 @@
+{
+  "name": "prime_solo_express",
+  "version": "1.0.0",
+  "description": "Create a basic node application using `npm init`. Create a file containing the JavaScript for running your server called `server.js`. Remember that this is the filename you will pass to `node` to start your server.",
+  "main": "server.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylequamme/prime_solo_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylequamme/prime_solo_express/issues"
+  },
+  "homepage": "https://github.com/kylequamme/prime_solo_express#readme"
+}
