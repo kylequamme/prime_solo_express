@@ -4,7 +4,8 @@
   "description": "Create a basic node application using `npm init`. Create a file containing the JavaScript for running your server called `server.js`. Remember that this is the filename you will pass to `node` to start your server.",
   "main": "server.js",
   "dependencies": {
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+    "express": "^4.14.0"
   },
   "devDependencies": {},
   "scripts": {
